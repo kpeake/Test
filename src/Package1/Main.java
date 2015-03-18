@@ -8,6 +8,7 @@ public class Main {
 		
 		Algebra algebra = new Algebra();
 		System.out.println(algebra.addMeUp(3, 9));
+		System.out.println(algebra.deleteMe(9, 3));
 		
 	}
 	
