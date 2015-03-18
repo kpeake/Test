@@ -7,6 +7,6 @@ public class Algebra {
 	}
 	
 	public int deleteMe (int a, int b) {
-		return a-b;
+		return a - b;
 	}
 }
